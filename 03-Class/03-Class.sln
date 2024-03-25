@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07-StringBuilder", "..\07-S
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08-Anonymus-Type", "..\08-Anonymus-Type\08-Anonymus-Type.csproj", "{8980D62A-E799-4C9F-90C5-76317C6402F7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09-Dynamics", "..\09-Dynamics\09-Dynamics.csproj", "{AABF1D09-F4D5-4B2B-9F79-8B2DDE659250}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{8980D62A-E799-4C9F-90C5-76317C6402F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8980D62A-E799-4C9F-90C5-76317C6402F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8980D62A-E799-4C9F-90C5-76317C6402F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AABF1D09-F4D5-4B2B-9F79-8B2DDE659250}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AABF1D09-F4D5-4B2B-9F79-8B2DDE659250}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AABF1D09-F4D5-4B2B-9F79-8B2DDE659250}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AABF1D09-F4D5-4B2B-9F79-8B2DDE659250}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
