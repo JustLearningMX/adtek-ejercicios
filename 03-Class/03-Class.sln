@@ -33,6 +33,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "13-Operators", "..\13-Opera
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14-PartialClassAndMethods", "..\14-PartialClassAndMethods\14-PartialClassAndMethods.csproj", "{0B4D1639-C58B-47C9-926B-6F2A5DADC3B8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15-StaticClassMethodsConstructorsFields", "..\15-StaticClassMethodsConstructorsFields\15-StaticClassMethodsConstructorsFields.csproj", "{1D21C7D0-BC28-49DD-B401-8A6196264E21}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{0B4D1639-C58B-47C9-926B-6F2A5DADC3B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0B4D1639-C58B-47C9-926B-6F2A5DADC3B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0B4D1639-C58B-47C9-926B-6F2A5DADC3B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D21C7D0-BC28-49DD-B401-8A6196264E21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D21C7D0-BC28-49DD-B401-8A6196264E21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D21C7D0-BC28-49DD-B401-8A6196264E21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D21C7D0-BC28-49DD-B401-8A6196264E21}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
