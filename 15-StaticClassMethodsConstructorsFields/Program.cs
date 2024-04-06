@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -30,10 +31,19 @@ namespace _15_StaticClassMethodsConstructorsFields
             StopWatch sw4 = new StopWatch();
             Console.WriteLine(StopWatch.NoOfInstances);//4
 
+            StopWatch.DisplayInfo(); // calling static method
+            StopWatch.DisplayInfo(); // calling static method
+
             sw1.PrintNoInstances(); //4
             sw2.PrintNoInstances(); //4
             sw3.PrintNoInstances(); //4
             sw4.PrintNoInstances(); //4
+            Saludos();
+        }
+
+        public static void Saludos()
+        {
+            Console.WriteLine("Hola");
         }
     }
 }
