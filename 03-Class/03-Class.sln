@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14-PartialClassAndMethods",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15-StaticClassMethodsConstructorsFields", "..\15-StaticClassMethodsConstructorsFields\15-StaticClassMethodsConstructorsFields.csproj", "{1D21C7D0-BC28-49DD-B401-8A6196264E21}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16-ObjectInitializerSyntax", "..\16-ObjectInitializerSyntax\16-ObjectInitializerSyntax.csproj", "{327077FE-C770-4BF0-B8C6-41810C125285}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,10 @@ Global
 		{1D21C7D0-BC28-49DD-B401-8A6196264E21}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1D21C7D0-BC28-49DD-B401-8A6196264E21}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1D21C7D0-BC28-49DD-B401-8A6196264E21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{327077FE-C770-4BF0-B8C6-41810C125285}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{327077FE-C770-4BF0-B8C6-41810C125285}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{327077FE-C770-4BF0-B8C6-41810C125285}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{327077FE-C770-4BF0-B8C6-41810C125285}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
