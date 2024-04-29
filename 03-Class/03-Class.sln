@@ -45,6 +45,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19-StatementsIf", "..\19-St
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20-TernaryOperator", "..\20-TernaryOperator\20-TernaryOperator.csproj", "{BB3DD339-0C96-49B1-A630-AD5FC19ACB54}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "21-Switch", "..\21-Switch\21-Switch.csproj", "{2C7222C2-76BA-401A-83F2-801A765F5EAB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -135,6 +137,10 @@ Global
 		{BB3DD339-0C96-49B1-A630-AD5FC19ACB54}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BB3DD339-0C96-49B1-A630-AD5FC19ACB54}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BB3DD339-0C96-49B1-A630-AD5FC19ACB54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C7222C2-76BA-401A-83F2-801A765F5EAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C7222C2-76BA-401A-83F2-801A765F5EAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C7222C2-76BA-401A-83F2-801A765F5EAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C7222C2-76BA-401A-83F2-801A765F5EAB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
