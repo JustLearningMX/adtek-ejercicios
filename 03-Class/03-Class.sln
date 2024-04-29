@@ -49,6 +49,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "21-Switch", "..\21-Switch\2
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "22-BucleFor", "..\22-BucleFor\22-BucleFor.csproj", "{B8A4599E-2BAA-4FF4-8908-03E0E1D8F72A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "23-Arrays", "..\23-Arrays\23-Arrays.csproj", "{5F9CA3AB-7D10-465C-AC1D-8428FF669ADA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -147,6 +149,10 @@ Global
 		{B8A4599E-2BAA-4FF4-8908-03E0E1D8F72A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B8A4599E-2BAA-4FF4-8908-03E0E1D8F72A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B8A4599E-2BAA-4FF4-8908-03E0E1D8F72A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F9CA3AB-7D10-465C-AC1D-8428FF669ADA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F9CA3AB-7D10-465C-AC1D-8428FF669ADA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F9CA3AB-7D10-465C-AC1D-8428FF669ADA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F9CA3AB-7D10-465C-AC1D-8428FF669ADA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

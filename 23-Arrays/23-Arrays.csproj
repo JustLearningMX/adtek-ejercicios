@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{B8A4599E-2BAA-4FF4-8908-03E0E1D8F72A}</ProjectGuid>
+    <ProjectGuid>{5F9CA3AB-7D10-465C-AC1D-8428FF669ADA}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_22_BucleFor</RootNamespace>
-    <AssemblyName>22-BucleFor</AssemblyName>
+    <RootNamespace>_23_Arrays</RootNamespace>
+    <AssemblyName>23-Arrays</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
