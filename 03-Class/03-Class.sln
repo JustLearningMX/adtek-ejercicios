@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "22-BucleFor", "..\22-BucleF
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "23-Arrays", "..\23-Arrays\23-Arrays.csproj", "{5F9CA3AB-7D10-465C-AC1D-8428FF669ADA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "24-ArrayMultidimensional", "..\24-ArrayMultidimensional\24-ArrayMultidimensional.csproj", "{7C12B7B0-CC73-44A3-A190-4749331007C8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{5F9CA3AB-7D10-465C-AC1D-8428FF669ADA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5F9CA3AB-7D10-465C-AC1D-8428FF669ADA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5F9CA3AB-7D10-465C-AC1D-8428FF669ADA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C12B7B0-CC73-44A3-A190-4749331007C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C12B7B0-CC73-44A3-A190-4749331007C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C12B7B0-CC73-44A3-A190-4749331007C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C12B7B0-CC73-44A3-A190-4749331007C8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
