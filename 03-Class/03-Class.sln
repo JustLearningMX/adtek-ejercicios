@@ -55,6 +55,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "24-ArrayMultidimensional", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "25-MatricesIrregulares", "..\25-MatricesIrregulares\25-MatricesIrregulares.csproj", "{6FBBCFE8-2F10-4701-ACA2-A1A5DFB8CA14}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "26-ArrayList", "..\26-ArrayList\26-ArrayList.csproj", "{5734B682-AC4D-4651-90EB-C83F3564DA71}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -165,6 +167,10 @@ Global
 		{6FBBCFE8-2F10-4701-ACA2-A1A5DFB8CA14}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6FBBCFE8-2F10-4701-ACA2-A1A5DFB8CA14}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6FBBCFE8-2F10-4701-ACA2-A1A5DFB8CA14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5734B682-AC4D-4651-90EB-C83F3564DA71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5734B682-AC4D-4651-90EB-C83F3564DA71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5734B682-AC4D-4651-90EB-C83F3564DA71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5734B682-AC4D-4651-90EB-C83F3564DA71}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
