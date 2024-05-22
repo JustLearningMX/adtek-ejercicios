@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{5734B682-AC4D-4651-90EB-C83F3564DA71}</ProjectGuid>
+    <ProjectGuid>{2D5285EA-CF54-4A29-B618-87FE54E2F1B2}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_26_ArrayList</RootNamespace>
-    <AssemblyName>26-ArrayList</AssemblyName>
+    <RootNamespace>_27_List</RootNamespace>
+    <AssemblyName>27-List</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
