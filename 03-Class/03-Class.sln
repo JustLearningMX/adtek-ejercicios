@@ -61,6 +61,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "27-List", "..\27-List\27-Li
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "28-SortedList", "..\28-SortedList\28-SortedList.csproj", "{71F7C597-11CA-43F8-AB9E-36F2A85DDDB9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "29-Dictionary", "..\29-Dictionary\29-Dictionary.csproj", "{C60C7663-17BC-47CA-9CEA-4FB9CF1CA078}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -183,6 +185,10 @@ Global
 		{71F7C597-11CA-43F8-AB9E-36F2A85DDDB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{71F7C597-11CA-43F8-AB9E-36F2A85DDDB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{71F7C597-11CA-43F8-AB9E-36F2A85DDDB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C60C7663-17BC-47CA-9CEA-4FB9CF1CA078}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C60C7663-17BC-47CA-9CEA-4FB9CF1CA078}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C60C7663-17BC-47CA-9CEA-4FB9CF1CA078}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C60C7663-17BC-47CA-9CEA-4FB9CF1CA078}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
